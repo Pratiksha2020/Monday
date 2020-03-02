@@ -1,0 +1,2 @@
+router#
+router#hostname rt-devops-01
