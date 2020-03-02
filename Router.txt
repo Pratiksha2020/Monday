@@ -1,2 +1,3 @@
 router#
 router#hostname rt-devops-01
+router#ip address 10.0.0.1 255.255.255.0
